@@ -1,0 +1,1 @@
+This is a basic javascript program that enable users to make a set number of grids and then make a colored art by coloring the grid boxes
